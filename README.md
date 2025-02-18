@@ -16,5 +16,5 @@ An open-source blockchain protocol that introduces Proof of Encapsulation (PoE) 
 
 ### Clone and Set Up
 ```sh
-git clone https://github.com/YourGitHubUsername/Truuze-Blockchain.git
+git clone https://github.com/Tem-Degu/Truuze-Blockchain.git
 cd Truuze-Blockchain
